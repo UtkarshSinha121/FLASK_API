@@ -1,4 +1,4 @@
-<H6>📝 Flask Project Setup with venv and GitHub – Quick Notes </H6>
+<H1>📝 Flask Project Setup with venv and GitHub – Quick Notes </H1>
 📦 1. Why Use venv (Virtual Environment)?
 Isolates dependencies for each project.
 
